@@ -1,0 +1,23 @@
+body{
+      background-color: black;
+}
+
+.box01{
+      width: 50%;
+      margin-left: 25%;
+      margin-top: 100px;
+      color: white;
+      font-family: 'Caveat', cursive;
+      text-align: center;
+      
+}
+#pic{
+      border: 5px solid white;
+      width: 100%;
+}
+#MainHeading{
+      text-transform: uppercase;
+      font-size: 3rem;
+      
+}
+
